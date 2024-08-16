@@ -139,7 +139,8 @@ document.addEventListener("DOMContentLoaded", () => {
             engine1: 'https://duckduckgo.com/?q=',
             engine2: 'https://www.google.com/search?q=',
             engine3: 'https://bing.com/?q=',
-            engine4: 'https://www.youtube.com/results?search_query='
+            engine4: 'https://www.youtube.com/results?search_query=',
+            engine5: 'https://github.com/search?q='
         };
 
         if (searchTerm !== "") {
