@@ -140,7 +140,8 @@ document.addEventListener("DOMContentLoaded", () => {
             engine2: 'https://www.google.com/search?q=',
             engine3: 'https://bing.com/?q=',
             engine4: 'https://www.youtube.com/results?search_query=',
-            engine5: 'https://github.com/search?q='
+            engine5: 'https://github.com/search?q=',
+            engine6: 'http://',
         };
 
         if (searchTerm !== "") {
